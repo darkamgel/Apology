@@ -86,7 +86,7 @@ export default function AnuApologyMagicWebsite() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: 0.15, duration: 0.8 }}
                 >
-                  Anuradha, my Chameli, I’m really sorry.
+                  Anuradha, Chameli, I’m really sorry.
                 </motion.h1>
                 <motion.p
                   className="mx-auto max-w-xl text-base leading-8 text-slate-700 md:mx-0 md:text-lg"
